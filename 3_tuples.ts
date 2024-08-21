@@ -1,0 +1,1 @@
+let employee: [number,string,boolean] =[1,"akash",true];
